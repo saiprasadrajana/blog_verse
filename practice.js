@@ -1,1 +1,32 @@
 console.log("hello world,sai prasad")
+
+let name="dev astra"
+console.log(name)
+
+let num=52;
+console.log(num)
+
+let islogged=false;
+console.log(islogged)
+
+let x;
+console.log(x)
+
+let y=null;
+console.log(y)
+
+console.log(typeof name)
+console.log(typeof num)
+console.log(islogged)
+console.log(typeof x)
+
+let arr=[1,2,3,4]
+console.log(arr[0])
+console.log(typeof arr)
+
+let person={
+    age:18
+}
+console.log(person.name)
+console.log(person.age)
+console.log(typeof person)
