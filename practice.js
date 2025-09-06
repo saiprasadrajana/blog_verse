@@ -25,8 +25,11 @@ console.log(arr[0])
 console.log(typeof arr)
 
 let person={
+    name:"sai",
     age:18
 }
+console.log(person["name"])
+console.log(person["age"])
 console.log(person.name)
 console.log(person.age)
 console.log(typeof person)
